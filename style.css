@@ -1,0 +1,33 @@
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #2478ff;
+  font-family: "Open Sans";
+}
+
+#about {
+  font-family: Verdana;
+  padding-top: 2rem;
+  background-color: white;
+}
+
+#gallery {
+  font-family: Verdana;
+  padding-top: 5rem;
+  color: white;
+  background-color: #2478ff;
+}
+
+.contact {
+  background-color: white;
+}
+
+.navbar {
+  background-color: white;
+}
+
+footer {
+  font-family: Calibri;
+}
+footer {
+  color: white;
+}
